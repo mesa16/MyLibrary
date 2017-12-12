@@ -17,10 +17,10 @@
             android:text="No.Anggota"
             />
         <TextView
-            android:id="@+id/tvnoanggota"
+            android:id="@+id/noanggota"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="8sp"
+            android:textSize="16sp"
             android:textStyle="bold"
             />
     </LinearLayout>
